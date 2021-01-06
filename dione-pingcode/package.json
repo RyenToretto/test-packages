@@ -1,0 +1,21 @@
+{
+  "name": "@RyenToretto/dione-pingcode",
+  "version": "0.0.1",
+  "description": "test publish git packages",
+  "scripts": {
+    "test": "echo \"Please use HbuildX import this project\""
+  },
+  "author": "RyenToretto",
+  "engines": {
+    "node": ">= 8"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/RyenToretto/test-packages#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/RyenToretto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyenToretto/test-packages"
+  }
+}
